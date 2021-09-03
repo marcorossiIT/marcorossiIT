@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Marco Rossi
-- 👀 I’m interested in Science and Art
+- 👀 I’m interested in Designing Technical Solutions
 - 🌱 I’m currently learning Aws Amplify's environment managing
-- 💞️ I’m looking to collaborate on Whatever it is, i want a strong team
-- 📫 How to reach me? Ehm... maybe by github's direct messages? is it even a thing?
+- 🏳️‍🌈 I’m studying Engineering
+- 🎋 I’m curious about GPU computation with Javascript
+- 📁 I’m working at Aurealink S.r.l. (co-founder)
+
 
 <!---
 marcorossiIT/marcorossiIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
