@@ -1,3 +1,4 @@
+currently moving to Gitlab for no particular reason  
 - 👋 Hi, I’m Marco Rossi
 - 👀 I’m interested in Designing Technical Solutions
 - 🌱 I’m currently learning Aws Amplify's environment managing
